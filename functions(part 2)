@@ -1,0 +1,4 @@
+def add(w, u):
+    return w + u
+result = add(9, 21)
+print("the answer is", result)
